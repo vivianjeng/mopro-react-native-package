@@ -19,7 +19,7 @@
       "ios",
       "cpp",
       "*.podspec",
-      "MoproFfiFramework.xcframework",
+      "*.xcframework/**",
       "react-native.config.js",
       "!ios/build",
       "!android/build",
